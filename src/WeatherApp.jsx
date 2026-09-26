@@ -1,5 +1,5 @@
 import { useState } from "react";
-import InfoBox from "./infoBox";
+import InfoBox from "./InfoBox";
 import SearchBox from "./SearchBox";
 
 export default function WeatherApp() {
